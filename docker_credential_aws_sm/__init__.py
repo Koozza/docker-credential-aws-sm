@@ -1,2 +1,1 @@
 
-from credentials import DockerAWSCredentialHelper
